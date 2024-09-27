@@ -18,12 +18,12 @@ print(int(num1) + int(num2) + int(num3) + int(num4) + int(num5) / 5)
 #Snake Case როცა შენ ქმნი დიდ ცვლადს რომელშიც დაგჭირდება რამდენიმე სიტყვა და Snake Case ამ ცვლადის ამოკითხვას გაგიმარტივებს ( _ ) დაგეხმარება უფრო მარტივ ამოკითხვაში 
 #Snake Case და მაგალითად My_dog_name 
 
-move = "Jurassic World Dominion"
-Director = "Colin Trevorrow" #აქ მინიჭების ოპერატორი უნდა იყოს - მაგივრად
-Year = 2022 #აქაც მინიჭების ოპერატორი უნდოდა - მაგივრად
-actors = "Jeff Goldblum" #აქ აკლდა " " ბრჭყალები
-actors  = "Sam Neill" #აქ მინიჭების ოპერატორი აკლდა და ასევე აქ Sam Neill აკლდა " "
-actors = "Chris Pratt" #აქ მინიჭების ოპერატორი აკლდა  და Chris Pratt ჩავსვი " "
+#move = "Jurassic World Dominion"
+#Director = Colin Trevorrow #აქ " " ში უნდა იყოს Colin Trevorrow 
+#Year _ 2022 #აქაც მინიჭების ოპერატორი უნდა _ მაგივრად
+#actors - Jeff Goldblum #აქ აკლდა " " ბრჭყალები და მინიჭების ოპერატორი
+#actors  = Sam Neill #აქ აკლია ბრჭყალები
+#actors - Chris Pratt #აქ მინიჭების ოპერატორი აკლია  და Chris Pratt ჩასასმელია " " ში
 
 
 
